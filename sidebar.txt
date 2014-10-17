@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rui:home|Door43 (rui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rui|d43-rui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rui/archive/master.zip|d43-rui.zip]]
+
+**Recent Changes**
+{{changes>ns = rui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rui|Ethnologue data]]
+
